@@ -4,7 +4,7 @@
 ----
 Descripción
 ----
--El traductor levanta un archivo .asm y lo convierte en un .bin
--El ejecutor levanta el archivo .bin y lo ejecuta 
+- El traductor levanta un archivo .asm y lo convierte en un .bin
+- El ejecutor levanta el archivo .bin y lo ejecuta 
 ----
 ⭐️ From [lunalauti](https://github.com/lunalauti)
